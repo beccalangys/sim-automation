@@ -1,0 +1,16 @@
+PageObjects/LabSimulationPage.java
+ PageObjects.LabSimulationPage
+PageObjects/BasePage.java
+ PageObjects.BasePage
+LabSimulationTest.java
+ LabSimulationTest
+PageObjects/IPadSimulatorHomePage.java
+ PageObjects.IPadSimulatorHomePage
+PageObjects/IPadMailContactsCalendarsSettingsPage.java
+ PageObjects.IPadMailContactsCalendarsSettingsPage
+PageObjects/IPadMainSettingsPage.java
+ PageObjects.IPadMainSettingsPage
+BaseTest.java
+ BaseTest
+PageObjects/IPadWifiSettingsPage.java
+ PageObjects.IPadWifiSettingsPage

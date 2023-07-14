@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-13T19:39:02 CDT" name="Gradle suite" finished-at="2023-07-13T19:39:15 CDT" duration-ms="13492">
+    <groups>
+    </groups>
+    <test started-at="2023-07-13T19:39:02 CDT" name="Gradle test" finished-at="2023-07-13T19:39:15 CDT" duration-ms="13492">
+      <class name="LabSimulationTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:LabSimulationTest@639ab7ba]" started-at="2023-07-13T19:38:59 CDT" name="init" finished-at="2023-07-13T19:39:02 CDT" duration-ms="2454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="before()[pri:0, instance:LabSimulationTest@639ab7ba]" started-at="2023-07-13T19:39:02 CDT" name="before" finished-at="2023-07-13T19:39:03 CDT" duration-ms="1178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="homeScreenHeaderLoad()[pri:0, instance:LabSimulationTest@639ab7ba]" started-at="2023-07-13T19:39:03 CDT" name="homeScreenHeaderLoad" finished-at="2023-07-13T19:39:15 CDT" duration-ms="12293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeScreenHeaderLoad -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LabSimulationTest@639ab7ba]" started-at="2023-07-13T19:39:15 CDT" name="tearDown" finished-at="2023-07-13T19:39:15 CDT" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- LabSimulationTest -->
+    </test> <!-- Gradle test -->
+  </suite> <!-- Gradle suite -->
+</testng-results>

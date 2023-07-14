@@ -10,7 +10,7 @@ public class LabSimulationTest extends BaseTest {
     IPadWifiSettingsPage wifiSettingsPage = new IPadWifiSettingsPage();
 
     @Test
-    public void labSimTest() {
+    public void labSimTest(){
 
         //Use the Accounts and Passwords option to go to Maggie Brown's email account settings and change the advanced configuration to Use SSL to securely communicate with the IMAP server over server port 993.
         labSimulationPage.validateLoad();

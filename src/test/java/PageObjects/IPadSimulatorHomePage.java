@@ -13,7 +13,6 @@ public class IPadSimulatorHomePage extends BasePage {
     }
 
     public void selectSettingsIconOnIpadSimulatorDesktop() {
-        waitForElementToLoad(settingsButton);
-        driver.findElement(settingsButton).click();
+        waitForElementToLoadAndClick(settingsButton);
     }
 }

@@ -3,6 +3,7 @@ package PageObjects;
 import org.openqa.selenium.By;
 
 public class LabSimulationPage extends BasePage {
+
     private final By testOutSimPageHeader = new By.ById("bControls");
     private final By doneButton = new By.ById("bDone");
     private final By finalScoreWindow = new By.ById("ScoreReportWindow");

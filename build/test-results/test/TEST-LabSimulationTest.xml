@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="LabSimulationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-14T00:39:03" hostname="DESKTOP-LQKF7VP" time="12.293">
+<testsuite name="LabSimulationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-14T01:13:47" hostname="DESKTOP-LQKF7VP" time="12.983">
   <properties/>
-  <testcase name="homeScreenHeaderLoad" classname="LabSimulationTest" time="12.293"/>
+  <testcase name="labSimTest" classname="LabSimulationTest" time="12.983"/>
   <system-out><![CDATA[100%
 ]]></system-out>
-  <system-err><![CDATA[Jul 13, 2023 7:39:04 PM PageObjects.BasePage waitForElementToLoad
+  <system-err><![CDATA[Jul 13, 2023 8:13:48 PM PageObjects.BasePage waitForElementToLoad
 INFO: Found element: By.id: bControls
-Jul 13, 2023 7:39:04 PM PageObjects.BasePage waitForElementToLoad
+Jul 13, 2023 8:13:49 PM PageObjects.BasePage waitForElementToLoad
 INFO: Found element: By.id: gTablet.Image
-Jul 13, 2023 7:39:05 PM PageObjects.BasePage waitForElementToLoad
+Jul 13, 2023 8:13:49 PM PageObjects.BasePage waitForElementToLoad
 INFO: Found element: By.id: wpDesktop.DesktopIcon15
-Jul 13, 2023 7:39:06 PM PageObjects.BasePage waitForElementToLoad
+Jul 13, 2023 8:13:50 PM PageObjects.BasePage waitForElementToLoad
 INFO: Found element: By.id: Settings
-Jul 13, 2023 7:39:06 PM PageObjects.BasePage waitForElementToLoadAndClick
+Jul 13, 2023 8:13:50 PM PageObjects.BasePage waitForElementToLoadAndClick
 INFO: Found element: By.id: siMailContactsCalendars
-Jul 13, 2023 7:39:07 PM PageObjects.BasePage waitForElementToLoadAndClick
+Jul 13, 2023 8:13:51 PM PageObjects.BasePage waitForElementToLoadAndClick
 INFO: Found element: By.xpath: //*[text()='Maggie Brown']
-Jul 13, 2023 7:39:08 PM PageObjects.BasePage waitForElementToLoadAndClick
+Jul 13, 2023 8:13:52 PM PageObjects.BasePage waitForElementToLoadAndClick
 INFO: Found element: By.xpath: //*[text()='mbrown@gmail.com']
-Jul 13, 2023 7:39:08 PM PageObjects.BasePage waitForElementToLoadAndClick
+Jul 13, 2023 8:13:52 PM PageObjects.BasePage waitForElementToLoadAndClick
 INFO: Found element: By.xpath: //*[text()='Advanced']
-Jul 13, 2023 7:39:09 PM PageObjects.BasePage waitForElementToLoad
+Jul 13, 2023 8:13:53 PM PageObjects.BasePage waitForElementToLoad
 INFO: Found element: By.xpath: //*[contains(@id, 'siUseSSL.Grid.tbOnOff.Grid.SwitchRoot.Canvas.SwitchThumb')]
-Jul 13, 2023 7:39:10 PM PageObjects.BasePage waitForElementToLoad
+Jul 13, 2023 8:13:54 PM PageObjects.BasePage waitForElementToLoad
 INFO: Found element: By.xpath: //*[contains(@id, 'tbServerPort')]
-Jul 13, 2023 7:39:11 PM PageObjects.BasePage waitForElementToLoadAndClick
+Jul 13, 2023 8:13:55 PM PageObjects.BasePage waitForElementToLoadAndClick
 INFO: Found element: By.xpath: //*[contains(@id, 'btnAccount')]
-Jul 13, 2023 7:39:11 PM PageObjects.BasePage waitForElementToLoadAndClick
+Jul 13, 2023 8:13:55 PM PageObjects.BasePage waitForElementToLoadAndClick
 INFO: Found element: By.xpath: //*[contains(@id, 'btnDone')]
-Jul 13, 2023 7:39:12 PM PageObjects.BasePage waitForElementToLoadAndClick
+Jul 13, 2023 8:13:56 PM PageObjects.BasePage waitForElementToLoadAndClick
 INFO: Found element: By.id: siWiFi
-Jul 13, 2023 7:39:12 PM PageObjects.BasePage waitForElementToLoad
+Jul 13, 2023 8:13:56 PM PageObjects.BasePage waitForElementToLoad
 INFO: Found element: By.xpath: //*[text()='Wi-Fi Networks']
-Jul 13, 2023 7:39:13 PM PageObjects.BasePage waitForElementToLoadAndClick
+Jul 13, 2023 8:13:57 PM PageObjects.BasePage waitForElementToLoadAndClick
 INFO: Found element: By.xpath: //*[text()='CorpNet']
-Jul 13, 2023 7:39:14 PM PageObjects.BasePage waitForElementToLoad
+Jul 13, 2023 8:13:58 PM PageObjects.BasePage waitForElementToLoad
 INFO: Found element: By.id: EnterPassword.Grid.Border
-Jul 13, 2023 7:39:14 PM PageObjects.BasePage waitForElementToLoadAndClick
+Jul 13, 2023 8:13:59 PM PageObjects.BasePage waitForElementToLoadAndClick
 INFO: Found element: By.id: btnJoin
-Jul 13, 2023 7:39:15 PM PageObjects.BasePage waitForElementToLoadAndClick
+Jul 13, 2023 8:13:59 PM PageObjects.BasePage waitForElementToLoadAndClick
 INFO: Found element: By.id: bDone
-Jul 13, 2023 7:39:15 PM PageObjects.BasePage waitForElementToLoad
+Jul 13, 2023 8:14:00 PM PageObjects.BasePage waitForElementToLoad
 INFO: Found element: By.id: ScoreReportWindow
 ]]></system-err>
 </testsuite>

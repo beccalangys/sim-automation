@@ -2,12 +2,12 @@ import PageObjects.*;
 import org.testng.annotations.Test;
 
 public class LabSimulationTest extends BaseTest {
+
     LabSimulationPage labSimulationPage = new LabSimulationPage();
     IPadSimulatorHomePage iPadSimulatorHomePage = new IPadSimulatorHomePage();
     IPadMainSettingsPage iPadMainSettingsPage = new IPadMainSettingsPage();
     IPadMailContactsCalendarsSettingsPage iPadMailContactsCalendarsSettingsPage = new IPadMailContactsCalendarsSettingsPage();
     IPadWifiSettingsPage wifiSettingsPage = new IPadWifiSettingsPage();
-
 
     @Test
     public void labSimTest() {
